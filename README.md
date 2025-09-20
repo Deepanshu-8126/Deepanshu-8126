@@ -29,9 +29,8 @@
 ---
 
 ## 🚀 Skills & Tools
-## 🚀 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sql,scikit-learn,jupyter,github,vscode,excel,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,github,c,GitHub,Git" />
 </p>
 
 
