@@ -8,15 +8,15 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 BCA Student | Aspiring Data Analyst & Data Scientist  
-- 🌱 Currently focused on: Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
+## 🧑‍💻 About Me  
+- 🎓 BCA Student | Aspiring **Data Analyst & Data Scientist**  
+- 🌱 Currently learning: **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn**  
 - 🚀 Building real-world data projects to gain practical experience  
 - 📬 Email: **deepanshukapri4@gmail.com**
 
 ---
 
-## 📲 Connect With Me
+## 📲 Connect With Me  
 <p align="center">
   <a href="https://instagram.com/deepanshu_liftsss.05" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40deepanshu__liftsss.05-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -28,15 +28,14 @@
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,c,GitHub,Git" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,git,github,sqlite,mysql,vscode" />
 </p>
-
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepanshu01622&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu01622&theme=tokyonight&hide_border=true" width="47%" />
@@ -48,21 +47,21 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=deepanshu01622&theme=matrix&no-frame=true&margin-w=10&column=6" />
 </p>
 
 ---
 
-## 📊 Profile Metrics
+## 📊 Profile Metrics  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu01622&theme=github_dark" />
 </p>
 
 ---
 
-## ✨ Motivation
+## ✨ Motivation  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
