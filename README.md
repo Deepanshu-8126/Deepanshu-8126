@@ -46,6 +46,10 @@
 </p>
 
 ---
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deepanshu-8126&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🏆 Achievements  
 <p align="center">
