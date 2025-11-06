@@ -60,20 +60,19 @@
 
 ## 📊 GitHub Analytics
 
+<!-- GitHub Analytics -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshu-8126&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-8126&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=deepanshu-8126&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=7200&v=1" alt="Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-8126&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&cache_seconds=7200&v=1" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepanshu-8126&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=deepanshu-8126&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&date_format=j%20M%5B%20Y%5D&v=1" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-8126&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-8126&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Deepanshu%20Kapri%20Activity%20Graph&v=1" alt="Activity Graph"/>
 </p>
-
----
 
 ## 🏆 GitHub Achievements
 <p align="center">
