@@ -64,11 +64,17 @@
   <img src="https://streak-stats.demolab.com?user=deepanshu-8126&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&date_format=j%20M%5B%20Y%5D&v=1" alt="GitHub Streak"/>
 </p>
 
----
-
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-8126&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=deepanshu-8126&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15](https://github-profile-trophy.vercel.app/?username=deepanshu-8126
+&theme=radical
+&no-frame=true
+&row=1
+&column=7
+&margin-w=15
+&margin-h=15
+&cache_seconds=86400
+)"alt="Trophies"/>
 </p>
 
 ---
