@@ -58,21 +58,25 @@
 
 ---
 
-## 📊 GitHub Streak (FIXED – STABLE)
+## 📊 GitHub Streak 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-8126&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deepanshu-8126&theme=radical" />
 </p>
+
 
 ---
 
-## 🏆 GitHub Achievements (FIXED)
+## 🏆 GitHub Achievements 
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Deepanshu-8126&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
+
+
 
 ## 🎯 Current Focus
 <table align="center">
