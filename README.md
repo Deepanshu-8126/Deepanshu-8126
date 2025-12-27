@@ -43,14 +43,9 @@
 
 ## 📊 GitHub Streak 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Deepanshu-8126&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Deepanshu-8126>&theme=<THEME_NAME>" />
 
----
+---A
 
 ## 🏆 GitHub Achievements (FIXED)
 
