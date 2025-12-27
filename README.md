@@ -61,7 +61,7 @@
 ## 📊 GitHub Streak (FIXED – STABLE)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-8126&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-8126&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🏆 GitHub Achievements (FIXED)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-8126&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepanshu-8126&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ Predictive Models
 ## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-8126&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-8126&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
