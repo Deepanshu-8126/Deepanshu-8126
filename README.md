@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst+%26+Scientist;Python+%7C+SQL+%7C+Data+Visualization;Transforming+Data+into+Insights;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst+%26+Scientist;Python+%7C+SQL+%7C+Data+Visualization;Transforming+Data+into+Insights;Building+Real-World+Projects"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🎓 BCA Student passionate about Data Science & Analytics  
 - 📊 Projects with Python, SQL, Pandas, NumPy, Matplotlib & Seaborn  
@@ -39,41 +39,79 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
 </p>
 
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+</p>
+
+### ⚙️ Development Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge"/>
+</p>
+
 ---
 
-## 📊 GitHub Streak 
+## 📊 GitHub Streak (FIXED – STABLE)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Deepanshu-8126>&theme=<THEME_NAME>" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-8126&show_icons=true&theme=radical&hide_border=true"/>
+</p>
 
----A
+---
 
 ## 🏆 GitHub Achievements (FIXED)
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=deepanshu-8126&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&cache_seconds=86400"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-8126&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 📈 Contribution Summary
+## 🎯 Current Focus
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 📚 Learning
+Advanced Python  
+Machine Learning  
+Statistics  
+Visualization  
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 Building
+Sales Analysis  
+Stock Dashboard  
+Customer Segmentation  
+Predictive Models  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu-8126&theme=github_dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-8126&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
 
 <p align="center">
   <b>💼 Open for Internship Opportunities | 🤝 Available for Collaboration</b>
 </p>
 
 <p align="center">
-  <i>⚡ "In God we trust, all others must bring data." - W. Edwards Deming</i>
+  Made with ❤️ and Python
 </p>
