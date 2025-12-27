@@ -67,14 +67,12 @@
 
 ---
 
-## 🏆 GitHub Achievements 
-
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepanshu-8126&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-8126&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
----
 
 
 
