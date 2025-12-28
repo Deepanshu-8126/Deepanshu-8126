@@ -65,14 +65,6 @@
 </p>
 
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-8126&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
 
 
 
@@ -82,8 +74,7 @@
 <td width="50%" align="center">
 
 ### 📚 Learning
-Advanced Python  
-Machine Learning  
+Advanced Python Machine Learning  
 Statistics  
 Visualization  
 
