@@ -67,7 +67,7 @@
   <img src="https://streak-stats.demolab.com/?user=Deepanshu-8126&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🐍 Contribution Snake Game
+### 🐍 Contribution 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepanshu-8126/Deepanshu-8126/output/github-contribution-grid-snake-dark.svg" />
@@ -89,7 +89,7 @@
   <table width="100%">
     <tr>
       <td width="50%" align="left" valign="top">
-        <h3>📚 Learning</h3>
+        <h3> Learning </h3>
         <ul>
           <li>Advanced Machine Learning in Python</li>
           <li>Statistical Data Analysis & Predictive Modeling</li>
@@ -97,7 +97,7 @@
         </ul>
       </td>
       <td width="50%" align="left" valign="top">
-        <h3>🚀 Building</h3>
+        <h3>Building</h3>
         <ul>
           <li>Sales Performance Analysis Dashboard</li>
           <li>Real-time Stock Market Visualizer</li>
@@ -112,9 +112,9 @@
 ---
 
 <p align="center">
-  <b>💼 Open for Internship Opportunities | 🤝 Available for Collaboration</b>
+  <b> Open for Internship Opportunities |  Available for Collaboration</b>
 </p>
 
 <p align="center">
-  Made with ❤️ and Python
+  Made with Python
 </p>
