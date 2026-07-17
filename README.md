@@ -25,7 +25,7 @@
 - 🔍 Focus: **Data Cleaning, EDA, Visualization & Machine Learning**  
 - 🌱 Exploring **Statistical Analysis & Predictive Modeling**  
 - 💼 Open to **Internship & Collaboration** opportunities  
-- 💪 **Fitness enthusiast** (consistency & discipline)
+- 
 
 ---
 
