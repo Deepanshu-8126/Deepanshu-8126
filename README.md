@@ -15,11 +15,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-<p align="center">
-  <img width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF">
-</p>
-
 - 🎓 **BCA Student** passionate about Data Science & Analytics  
 - 📊 Projects with **Python, SQL, Pandas, NumPy, Matplotlib & Seaborn**  
 - 🔍 Focus: **Data Cleaning, EDA, Visualization & Machine Learning**  
