@@ -55,12 +55,34 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 🔥 GitHub Streak & Contributions
 
-### ⚡ GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Deepanshu-8126&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/Deepanshu-8126">
+    <img
+      src="https://streak-stats.demolab.com/?user=Deepanshu-8126&theme=radical&hide_border=false&border_radius=12&card_width=900&card_height=250&mode=daily&date_format=j%20M%20Y&locale=en&sections=total,current,longest"
+      alt="Deepanshu Kapri GitHub Streak Stats"
+      width="900"
+    />
+  </a>
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-8126&theme=react-dark&hide_border=true&area=true&custom_title=Deepanshu%20Kapri's%20Contribution%20Graph"
+    alt="Deepanshu Kapri GitHub Contribution Graph"
+    width="900"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepanshu-8126&theme=radical"
+    alt="GitHub Profile Summary"
+    width="900"
+  />
+</p>
+
 
 ### 🐍 Contribution 
 <p align="center">
@@ -71,12 +93,7 @@
   </picture>
 </p>
 
-### 🧩 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-8126&theme=github-dark&hide_border=true" alt="Contribution Graph" />
-</p>
 
----
 
 ## 🎯 Current Focus
 
