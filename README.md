@@ -6,6 +6,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:1a1f3d,50:2d1b69,75:0f172a,100:050816&height=300&section=header&text=DEEPANSHU%20KAPRI&fontSize=65&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descSize=20&descColor=7C3AED" width="100%" alt="Header"/>
 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              MATRIX RAIN DECORATION                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Matrixcode.gif" width="100%" height="20" alt="Matrix Rain"/>
+
 <br>
 
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -159,7 +165,7 @@ class DeepanshuKapri:
 ### 🏆 GitHub Trophies
 
 <a href="https://github.com/Deepanshu-8126">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Deepanshu-8126&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img width="90%" src="https://github-trophies.vercel.app/?username=Deepanshu-8126&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </a>
 
 <br><br>
@@ -360,6 +366,12 @@ graph LR
 > *"Data becomes powerful when you transform numbers into decisions and insights into impact."*
 
 <br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              MATRIX RAIN DECORATION                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Matrixcode.gif" width="100%" height="20" alt="Matrix Rain"/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                     FOOTER                              -->
