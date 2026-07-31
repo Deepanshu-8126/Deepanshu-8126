@@ -139,23 +139,35 @@ class DeepanshuKapri:
 
 ## 📈 GitHub Analytics Dashboard
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Matrixcode.gif" width="100%" height="3" alt="divider"/>
+
 <!-- Stats + Top Languages side by side -->
 
 <a href="https://github.com/Deepanshu-8126">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deepanshu-8126&show_icons=true&theme=radical&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=ffffff&bg_color=0a0e27&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deepanshu-8126&show_icons=true&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=ffffff&bg_color=0a0e27&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/Deepanshu-8126">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-8126&layout=compact&theme=radical&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=0a0e27&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deepanshu-8126&layout=compact&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=0a0e27&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br><br>
+
+<!-- ═══════════════ GITHUB SUMMARY CARD ═══════════════ -->
+
+### 📋 Profile Summary
+
+<a href="https://github.com/Deepanshu-8126">
+  <img width="65%" src="https://ghstats.dev/api/card?username=Deepanshu-8126" alt="GitHub Summary"/>
 </a>
 
 <br><br>
 
 <!-- ═══════════════ STREAK STATS ═══════════════ -->
 
-### 🔥 GitHub Streak
+### 🔥 Coding Streak
 
 <a href="https://github.com/Deepanshu-8126">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Deepanshu-8126&theme=radical&hide_border=true&border_radius=10&background=0A0E27&ring=00E5FF&fire=7C3AED&currStreakNum=F59E0B&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=7C3AED&dates=F59E0B" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Deepanshu-8126&hide_border=true&border_radius=10&background=0A0E27&ring=00E5FF&fire=7C3AED&currStreakNum=F59E0B&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=7C3AED&dates=F59E0B" alt="GitHub Streak"/>
 </a>
 
 <br><br>
@@ -170,11 +182,11 @@ class DeepanshuKapri:
 
 <br><br>
 
-<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
+<!-- ═══════════════ CONTRIBUTION HEATMAP / GRAPH ═══════════════ -->
 
-### 📊 Contribution Activity
+### 📊 Contribution Heatmap
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-8126&bg_color=0a0e27&color=00E5FF&line=7C3AED&point=F59E0B&area=true&hide_border=true" alt="Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-8126&bg_color=0a0e27&color=00E5FF&line=7C3AED&point=F59E0B&area=true&hide_border=true&custom_title=Deepanshu's%20Contribution%20Heatmap" alt="Contribution Heatmap"/>
 
 <br><br>
 
@@ -359,7 +371,9 @@ graph LR
 <!--                   VISITOR COUNTER                       -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://profile-counter.glitch.me/Deepanshu-8126/count.svg" alt="Visitor Counter"/>
+<a href="https://github.com/Deepanshu-8126">
+  <img src="https://komarev.com/ghpvc/?username=Deepanshu-8126&label=Total+Profile+Views&color=00E5FF&style=for-the-badge&labelColor=0a0e27" alt="Total Views"/>
+</a>
 
 <br><br>
 
