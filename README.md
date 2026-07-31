@@ -149,67 +149,209 @@ visualization and machine learning.
 
 <br>
 
-<!-- ====================================================== -->
+<!-- ================================================================ -->
 
-<!--                 DATA SCIENCE STACK                     -->
+<!--                       DATA SCIENCE STACK                         -->
 
-<!-- ====================================================== -->
+<!-- ================================================================ -->
 
-<h2>⚡ DATA SCIENCE STACK</h2>
+<h2 align="center">⚡ DATA SCIENCE STACK</h2>
 
-<h3>🐍 Programming & Data Manipulation</h3>
+<table width="100%">
 
-<p align="center">
+<tr>
+<td width="28%"><b>🐍 Foundation</b></td>
+<td>
 
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=013243"/>
+<table>
+<tr>
 
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br>
+Python
+</td>
 
-<h3>📊 Visualization & Business Intelligence</h3>
+<td width="18"></td>
 
-<p align="center">
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/><br>
+Pandas
+</td>
 
-<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=python&logoColor=11557C"/>
-<img src="https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge&logo=python&logoColor=4C9AFF"/>
-<img src="https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+<td width="18"></td>
 
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/><br>
+NumPy
+</td>
 
-<h3>🗄️ Databases & Querying</h3>
+<td width="18"></td>
 
-<p align="center">
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="42"/><br>
+Anaconda
+</td>
 
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+</tr>
+</table>
 
-</p>
+</td>
+</tr>
 
-<h3>🤖 Machine Learning</h3>
+<tr>
+<td><b>📊 Visualization</b></td>
+<td>
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Statistics-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Predictive%20Modeling-0F172A?style=for-the-badge&logo=chartdotjs&logoColor=FF6384"/>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42"/><br>
+Matplotlib
+</td>
 
-</p>
+<td width="18"></td>
 
-<h3>🛠️ Development Environment</h3>
+<td align="center">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42"/><br>
+Seaborn
+</td>
 
-<p align="center">
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Jupyter-0F172A?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-<img src="https://img.shields.io/badge/Google%20Colab-0F172A?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
-<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</td>
+</tr>
 
-</p>
+<tr>
+<td><b>🗄️ Database & SQL</b></td>
+<td>
 
-<br>
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/><br>
+MySQL
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+💾<br>
+SQL
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42"/><br>
+SQLite
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42"/><br>
+SQL Server
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 Machine Learning</b></td>
+<td>
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42"/><br>
+Scikit-Learn
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+📈<br>
+Statistics
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+🎯<br>
+Predictive Modeling
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🛠 Development</b></td>
+<td>
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42"/><br>
+Jupyter
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="42"/><br>
+Colab
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="42"/><br>
+VS Code
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/><br>
+Git
+</td>
+
+<td width="18"></td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/><br>
+GitHub
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td><b>📈 Business Intelligence</b></td>
+<td>
+<b>Power BI</b> &nbsp;&nbsp; • &nbsp;&nbsp;
+<b>Excel</b> &nbsp;&nbsp; • &nbsp;&nbsp;
+<b>Dashboarding</b> &nbsp;&nbsp; • &nbsp;&nbsp;
+<b>Business Analysis</b>
+</td>
+</tr>
+
+</table>
+
 
 <!-- ====================================================== -->
 
@@ -333,75 +475,12 @@ visualization and machine learning.
 
 <!-- ====================================================== -->
 
-<h2>🤖 MACHINE LEARNING JOURNEY</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/01%20DATA%20PREPROCESSING-111827?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-→
-<img src="https://img.shields.io/badge/02%20EDA-111827?style=for-the-badge&logo=plotly&logoColor=00E5FF"/>
-→
-<img src="https://img.shields.io/badge/03%20FEATURE%20ENGINEERING-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-→
-<img src="https://img.shields.io/badge/04%20MODEL-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
-→
-<img src="https://img.shields.io/badge/05%20EVALUATION-111827?style=for-the-badge&logo=googleanalytics&logoColor=00E5FF"/>
-
-</p>
-
-<br>
-
 <!-- ====================================================== -->
 
 <!--                    PROJECTS                             -->
 
 <!-- ====================================================== -->
 
-<h2>🚀 PROJECT EXPERIENCE</h2>
-
-<table align="center">
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Retail Sales Analysis
-
-<b>Superstore EDA</b>
-
-Python • Pandas • NumPy • Matplotlib
-
-* EDA on a real-world retail dataset
-* Data cleaning & preprocessing
-* Missing-value & duplicate handling
-* Product & category analysis
-* Regional sales analysis
-* Profitability analysis
-* Business insights from raw data
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎬 Netflix Data Analysis
-
-<b>Exploratory & Statistical Analysis</b>
-
-Python • Pandas • Matplotlib • Scikit-learn
-
-* Dataset exploration
-* Data preprocessing
-* Statistical analysis
-* Content pattern analysis
-* Visualization
-* Classification modeling
-* Predictive analysis foundations
-
-</td>
-</tr>
-
-</table>
-
-<br>
 
 <!-- ====================================================== -->
 
@@ -409,43 +488,7 @@ Python • Pandas • Matplotlib • Scikit-learn
 
 <!-- ====================================================== -->
 
-<h2>🎯 CURRENT FOCUS</h2>
 
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Learning
-
-* Advanced Machine Learning in Python
-* Scikit-learn
-* Statistical Data Analysis
-* Predictive Modeling
-* Feature Engineering
-* Model Evaluation
-* Advanced SQL
-* Data Visualization
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏗️ Building
-
-* Sales Performance Analysis
-* Power BI Dashboards
-* Customer Segmentation
-* Predictive Models
-* End-to-End Data Projects
-* Portfolio-Ready Analytics Projects
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 <!-- ====================================================== -->
 
@@ -453,25 +496,6 @@ Python • Pandas • Matplotlib • Scikit-learn
 
 <!-- ====================================================== -->
 
-<h2>📊 GITHUB STATISTICS</h2>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Deepanshu-8126&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github&custom_title=Deepanshu%20Kapri%20-%20GitHub%20Stats"
-height="185"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-8126&layout=compact&langs_count=8&hide_border=true&theme=radical&custom_title=Most%20Used%20Languages"
-height="185"
-alt="Top Languages"
-/>
-
-</p>
-
-<br>
 
 <!-- ====================================================== -->
 
