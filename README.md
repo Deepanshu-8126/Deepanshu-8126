@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:111C3D,65:24104F,100:050816&height=260&section=header&text=DEEPANSHU%20KAPRI&fontSize=62&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descSize=18&descColor=A78BFA" width="100%" alt="Deepanshu Kapri"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:161B22,30:1A1B4B,50:2D1B69,70:1A1B4B,85:161B22,100:0D1117&height=260&section=header&text=DEEPANSHU%20KAPRI&fontSize=62&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descSize=18&descColor=C084FC" width="100%" alt="Deepanshu Kapri"/>
 
 <br>
 
@@ -9,19 +9,19 @@
 <br><br>
 
 <a href="https://github.com/Deepanshu-8126">
-<img src="https://komarev.com/ghpvc/?username=Deepanshu-8126&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&labelColor=050816" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Deepanshu-8126&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 </a>
 
  
 
 <a href="https://github.com/Deepanshu-8126?tab=followers">
-<img src="https://img.shields.io/github/followers/Deepanshu-8126?label=FOLLOWERS&style=for-the-badge&color=A78BFA&labelColor=050816&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Deepanshu-8126?label=FOLLOWERS&style=for-the-badge&color=C084FC&labelColor=0D1117&logo=github&logoColor=white" alt="Followers"/>
 </a>
 
  
 
 <a href="https://github.com/Deepanshu-8126?tab=repositories">
-<img src="https://img.shields.io/github/stars/Deepanshu-8126?label=STARS&style=for-the-badge&color=FBBF24&labelColor=050816&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Deepanshu-8126?label=STARS&style=for-the-badge&color=FBBF24&labelColor=0D1117&logo=github&logoColor=white" alt="Stars"/>
 </a>
 
 </div>
@@ -79,11 +79,11 @@ class DeepanshuKapri:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20ANALYTICS-00E5FF?style=for-the-badge&labelColor=050816" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20ANALYTICS-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Data Analytics"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MINDSET-BUILD%20%26%20LEARN-A78BFA?style=for-the-badge&labelColor=050816" alt="Build and Learn"/>
+<img src="https://img.shields.io/badge/MINDSET-BUILD%20%26%20LEARN-C084FC?style=for-the-badge&labelColor=0D1117" alt="Build and Learn"/>
 
 </td>
 
@@ -199,13 +199,13 @@ class DeepanshuKapri:
 
 <a href="https://github.com/Deepanshu-8126">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deepanshu-8126&show_icons=true&hide_border=true&title_color=00E5FF&icon_color=A78BFA&text_color=E5E7EB&bg_color=050816&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deepanshu-8126&show_icons=true&hide_border=false&border_color=2D1B69&border_radius=10&title_color=00E5FF&icon_color=C084FC&text_color=E5E7EB&bg_color=0D1117&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Statistics"/>
 
 </a>
 
 <a href="https://github.com/Deepanshu-8126">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deepanshu-8126&layout=compact&hide_border=true&title_color=00E5FF&text_color=E5E7EB&bg_color=050816&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deepanshu-8126&layout=compact&hide_border=false&border_color=2D1B69&border_radius=10&title_color=00E5FF&text_color=E5E7EB&bg_color=0D1117&langs_count=8" width="48%" alt="Top Languages"/>
 
 </a>
 
@@ -215,7 +215,7 @@ class DeepanshuKapri:
 
 <a href="https://github.com/Deepanshu-8126">
 
-<img src="https://streak-stats.demolab.com/?user=Deepanshu-8126&hide_border=true&background=050816&ring=00E5FF&fire=A78BFA&currStreakNum=FBBF24&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=A78BFA&dates=94A3B8" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Deepanshu-8126&hide_border=false&border_radius=10&background=0D1117&border=2D1B69&ring=00E5FF&fire=C084FC&currStreakNum=FBBF24&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=C084FC&dates=94A3B8" width="70%" alt="GitHub Streak"/>
 
 </a>
 
@@ -225,7 +225,7 @@ class DeepanshuKapri:
 
 <a href="https://github.com/Deepanshu-8126">
 
-<img src="https://github-trophies.vercel.app/?username=Deepanshu-8126&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="90%" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Deepanshu-8126&theme=dracula&no-frame=false&no-bg=false&margin-w=8" width="90%" alt="GitHub Trophies"/>
 
 </a>
 
@@ -233,7 +233,7 @@ class DeepanshuKapri:
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-8126&bg_color=050816&color=00E5FF&line=A78BFA&point=FBBF24&area=true&hide_border=true&custom_title=DEEPANSHU%20KAPRI%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="96%" alt="Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-8126&bg_color=0D1117&color=00E5FF&line=C084FC&point=FBBF24&area=true&hide_border=false&border_color=2D1B69&border_radius=10&custom_title=DEEPANSHU%20KAPRI%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="96%" alt="Contribution Activity"/>
 
 </div>
 
@@ -358,15 +358,15 @@ Documentation
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Proficient-00E5FF?style=for-the-badge&logo=python&logoColor=white&labelColor=050816" alt="Python"/>
+<img src="https://img.shields.io/badge/Python-Proficient-00E5FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
 
-<img src="https://img.shields.io/badge/SQL-Advanced-A78BFA?style=for-the-badge&logo=mysql&logoColor=white&labelColor=050816" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-Advanced-C084FC?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" alt="SQL"/>
 
-<img src="https://img.shields.io/badge/Data_Science-Intermediate-FBBF24?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=050816" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Data_Science-Intermediate-FBBF24?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" alt="Data Science"/>
 
-<img src="https://img.shields.io/badge/Power_BI-Analyst-00E5FF?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=050816" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Power_BI-Analyst-00E5FF?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D1117" alt="Power BI"/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-Learner-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=050816" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Machine_Learning-Learner-C084FC?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" alt="Machine Learning"/>
 
 </div>
 
@@ -378,7 +378,7 @@ Documentation
 
 <a href="https://github.com/Deepanshu-8126">
 
-<img src="https://img.shields.io/badge/GitHub-Deepanshu--8126-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Deepanshu--8126-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
 
 </a>
 
@@ -386,7 +386,7 @@ Documentation
 
 <a href="https://linkedin.com/in/deepanshu-kapri">
 
-<img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Kapri-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Kapri-C084FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 
 </a>
 
@@ -394,17 +394,17 @@ Documentation
 
 <a href="mailto:deepanshukapri8126@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-Contact%20Me-FBBF24?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-FBBF24?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-00E5FF?style=for-the-badge&labelColor=050816" alt="Internships"/>
+<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Internships"/>
 
-<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-A78BFA?style=for-the-badge&labelColor=050816" alt="Collaboration"/>
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-C084FC?style=for-the-badge&labelColor=0D1117" alt="Collaboration"/>
 
-<img src="https://img.shields.io/badge/OPEN_TO-FREELANCE-FBBF24?style=for-the-badge&labelColor=050816" alt="Freelance"/>
+<img src="https://img.shields.io/badge/OPEN_TO-FREELANCE-FBBF24?style=for-the-badge&labelColor=0D1117" alt="Freelance"/>
 
 <br><br>
 
@@ -412,7 +412,7 @@ Documentation
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:24104F,65:111C3D,100:050816&height=130&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:161B22,30:1A1B4B,50:2D1B69,70:1A1B4B,85:161B22,100:0D1117&height=130&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
 <br>
 
@@ -420,4 +420,3 @@ Documentation
 *Data Analyst • Python Developer • ML Enthusiast*
 
 </div>
-
