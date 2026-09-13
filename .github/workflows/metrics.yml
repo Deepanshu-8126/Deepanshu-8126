@@ -1,0 +1,91 @@
+# ══════════════════════════════════════════════════════════════════
+# Lowlighter Metrics — GitHub Actions Workflow
+# Place this file at: .github/workflows/metrics.yml
+# in the Deepanshu-8126/Deepanshu-8126 repository
+#
+# SETUP (one-time):
+# 1. Go to https://github.com/settings/tokens
+# 2. Generate a "Classic" Personal Access Token with 'public_repo' scope
+# 3. Go to your Deepanshu-8126/Deepanshu-8126 repo → Settings → Secrets
+# 4. Create a secret named METRICS_TOKEN with the PAT value
+# 5. Go to Actions tab → click "Run workflow" to generate initial SVGs
+# ══════════════════════════════════════════════════════════════════
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 4 * * *"     # Daily at 4:00 AM UTC (9:30 AM IST)
+  workflow_dispatch:          # Manual trigger
+  push:
+    branches: ["main"]
+
+jobs:
+
+  # ── Isometric Contribution Calendar (3D) ──────────────────────
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+
+  # ── Language Activity ─────────────────────────────────────────
+  languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_recent_load: 20
+          plugin_languages_recent_days: 14
+          config_timezone: Asia/Kolkata
+
+  # ── Coding Habits ────────────────────────────────────────────
+  habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kolkata
+
+  # ── Achievements ─────────────────────────────────────────────
+  achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          config_timezone: Asia/Kolkata
