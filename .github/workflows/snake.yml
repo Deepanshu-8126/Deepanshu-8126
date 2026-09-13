@@ -1,0 +1,37 @@
+# ══════════════════════════════════════════════════════════════════
+# Contribution Snake — GitHub Actions Workflow
+# Place this file at: .github/workflows/snake.yml
+# in the Deepanshu-8126/Deepanshu-8126 repository
+#
+# No additional secrets needed — uses default GITHUB_TOKEN
+# After first run, the snake SVGs will appear on the 'output' branch
+# ══════════════════════════════════════════════════════════════════
+
+name: Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 5 * * *"     # Daily at 5:00 AM UTC (10:30 AM IST)
+  workflow_dispatch:          # Manual trigger
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Deepanshu-8126
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
