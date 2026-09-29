@@ -151,18 +151,14 @@ flowchart LR
 
 <br/>
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics Dashboard
 
 <div align="center">
 
-<!-- Auto-generated daily by .github/workflows/profile-cards.yml (no rate limits) -->
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="96%" alt="Profile Details"/>
+<!-- Auto-generated daily by .github/workflows/github-dashboard.yml -->
+<img src="./assets/github-dashboard.png" width="100%" alt="GitHub Analytics Dashboard"/>
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats"/>
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top Languages"/>
-
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per Language"/>
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Contribution Graph"/>
 
 <img width="80%" src="https://streak-stats.demolab.com/?user=Deepanshu-8126&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=C084FC&currStreakLabel=00E5FF" alt="Streak"/>
 
